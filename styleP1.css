@@ -1,0 +1,41 @@
+body{
+	background-image: url('https://wallpapers.com/images/high/aesthetic-beach-laptop-nxxp8pvf8vuu72xo.webp');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+#info{
+	display: inline-block;
+	vertical-align: auto;
+}
+#characterss{
+	align-self: center;
+}
+.container1{
+	display: flex;
+	column-gap: 10px;
+	row-gap: 30px;
+	justify-content: center;
+	background-color: lightblue;
+}
+.container2{
+	display: flex;
+	column-gap: 30px;
+	row-gap: 30px;
+	justify-content: center;
+	background-color: lightblue;
+}
+#submittedby{
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+#recc{
+	text-align: center;
+}
+.more{
+	text-align: center;
+	color: royalblue;
+	font-weight: bold;
+}
